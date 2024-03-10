@@ -37,13 +37,7 @@ No installation is required. You only need a shell environment (e.g., Bash) and 
 
 ## Output
 
-The script will output a list of usernames, one per line, representing those with access to the queried organization's repository.
-
-<img width="646" alt="image" src="https://github.com/sankalpx5/Shell_Scripting-AWS/assets/115892823/92f8aa1f-977e-41b6-98e8-a1f49449fde7">
-<br></br>
-<img width="959" alt="image" src="https://github.com/sankalpx5/Shell_Scripting-AWS/assets/115892823/1791bffe-6765-4674-a642-bed72abb9b49">  
-<br></br>  
-<br></br>  
+The script will output a list of usernames, one per line, representing those with access to the queried organization's repository. 
 
 # 2. AWS S3 Event-Triggered Email Notification Workflow
 **This project automates the creation of AWS resources and triggers email notifications whenever new objects are uploaded to an S3 bucket.**  
